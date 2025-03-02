@@ -1,9 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:users_favorites_flutter/utils/api_provider.dart';
-import 'package:users_favorites_flutter/utils/favorite_handle.dart';
+import 'package:users_favorites_flutter/utils/favorite_handler.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
